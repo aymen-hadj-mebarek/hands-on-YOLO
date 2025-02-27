@@ -1,0 +1,6 @@
+path : /home/aymen/Programmation/Python/Artificial-Intelligence/Object-Detection/car_dataset
+train : images/train
+val : images/train
+
+names:
+  0: aymen_car
